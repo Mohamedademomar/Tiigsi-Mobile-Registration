@@ -161,6 +161,10 @@ body{
 .google a {
     color: black;
 }
+
+.comand{
+    margin-top: 2opx;
+}
 .info {
     width: 80%;
     margin: auto;
